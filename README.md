@@ -11,5 +11,4 @@ Il faut un login pour ce petit projet le seul présent est
 <br>Pseudo: Nancy
 <br>Mot de Passe: Mananta
 <br><br>
-La base de données je vous donnes pas la mienne vous configurez la votre
-
+La base de données est dans le fichiers db.sql que vous pourrez utiliser pour l'initaliser sur votre propre base de données.
