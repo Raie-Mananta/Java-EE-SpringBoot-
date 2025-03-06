@@ -2,14 +2,14 @@
 
 C'est un projet Springtrap Five Nights At Freddy's. 
 Les endpoints sont:
-/api/ Pour tous avant toute chose.
-/collaborateurs (en méthode POST et GET)
-/demande-congees (idem pour les méthodes)
-/periode (toujours la même)
-
+<br>/api/ Pour tous avant toute chose.
+<br>/collaborateurs (en méthode POST et GET)
+<br>/demande-congees (idem pour les méthodes)
+<br>/periode (toujours la même)
+<br><br>
 Il faut un login pour ce petit projet le seul présent est 
-Pseudo: Nancy
-Mot de Passe: Mananta
-
+<br>Pseudo: Nancy
+<br>Mot de Passe: Mananta
+<br><br>
 La base de données je vous donnes pas la mienne vous configurez la votre
 
